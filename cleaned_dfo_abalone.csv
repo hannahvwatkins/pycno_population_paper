@@ -1,0 +1,995 @@
+dummy_id,year,survey_name,stat_area,num_quadrats,num_pycno,pycno_density,bottom_time,presence,source
+1_A,2006,CC 2006 Index sites survey,5,16,4,0.25,71,1,abalone
+2_A,2006,CC 2006 Index sites survey,5,16,1,0.0625,27,1,abalone
+3_A,2006,CC 2006 Index sites survey,5,16,1,0.0625,40,1,abalone
+4_A,2006,CC 2006 Index sites survey,5,16,3,0.1875,24,1,abalone
+5_A,2006,CC 2006 Index sites survey,5,16,5,0.3125,35,1,abalone
+6_A,2006,CC 2006 Index sites survey,5,16,5,0.3125,44,1,abalone
+7_A,2006,CC 2006 Index sites survey,5,16,2,0.125,29,1,abalone
+8_A,2006,CC 2006 Index sites survey,5,16,1,0.0625,44,1,abalone
+9_A,2006,CC 2006 Index sites survey,6,16,7,0.4375,66,1,abalone
+10_A,2006,CC 2006 Index sites survey,6,16,2,0.125,39,1,abalone
+11_A,2006,CC 2006 Index sites survey,6,16,4,0.25,35,1,abalone
+12_A,2006,CC 2006 Index sites survey,6,16,0,0,24,0,abalone
+13_A,2006,CC 2006 Index sites survey,6,16,1,0.0625,28,1,abalone
+14_A,2006,CC 2006 Index sites survey,6,16,0,0,32,0,abalone
+15_A,2006,CC 2006 Index sites survey,6,16,3,0.1875,29,1,abalone
+16_A,2006,CC 2006 Index sites survey,6,16,1,0.0625,34,1,abalone
+17_A,2006,CC 2006 Index sites survey,6,16,3,0.1875,29,1,abalone
+18_A,2006,CC 2006 Index sites survey,6,16,0,0,26,0,abalone
+19_A,2006,CC 2006 Index sites survey,6,16,4,0.25,52,1,abalone
+20_A,2006,CC 2006 Index sites survey,6,16,0,0,33,0,abalone
+21_A,2006,CC 2006 Index sites survey,6,16,1,0.0625,24,1,abalone
+22_A,2006,CC 2006 Index sites survey,6,16,1,0.0625,28,1,abalone
+23_A,2006,CC 2006 Index sites survey,6,15,5,0.333333333,47,1,abalone
+24_A,2006,CC 2006 Index sites survey,6,16,1,0.0625,34,1,abalone
+25_A,2006,CC 2006 Index sites survey,6,16,4,0.25,47,1,abalone
+26_A,2006,CC 2006 Index sites survey,6,16,1,0.0625,45,1,abalone
+27_A,2006,CC 2006 Index sites survey,6,16,1,0.0625,31,1,abalone
+28_A,2006,CC 2006 Index sites survey,6,16,3,0.1875,32,1,abalone
+29_A,2006,CC 2006 Index sites survey,6,16,0,0,42,0,abalone
+30_A,2006,CC 2006 Index sites survey,6,16,2,0.125,55,1,abalone
+31_A,2006,CC 2006 Index sites survey,6,16,0,0,39,0,abalone
+32_A,2006,CC 2006 Index sites survey,6,16,3,0.1875,40,1,abalone
+33_A,2006,CC 2006 Index sites survey,6,16,1,0.0625,45,1,abalone
+34_A,2006,CC 2006 Index sites survey,6,16,0,0,59,0,abalone
+35_A,2006,CC 2006 Index sites survey,6,16,3,0.1875,33,1,abalone
+36_A,2006,CC 2006 Index sites survey,6,16,4,0.25,50,1,abalone
+37_A,2006,CC 2006 Index sites survey,6,16,2,0.125,45,1,abalone
+38_A,2006,CC 2006 Index sites survey,6,16,3,0.1875,45,1,abalone
+39_A,2006,CC 2006 Index sites survey,6,16,2,0.125,31,1,abalone
+40_A,2006,CC 2006 Index sites survey,6,16,5,0.3125,36,1,abalone
+41_A,2006,CC 2006 Index sites survey,6,16,3,0.1875,65,1,abalone
+42_A,2006,CC 2006 Index sites survey,6,16,2,0.125,56,1,abalone
+43_A,2006,CC 2006 Index sites survey,6,16,2,0.125,59,1,abalone
+44_A,2006,CC 2006 Index sites survey,6,16,1,0.0625,59,1,abalone
+45_A,2006,CC 2006 Index sites survey,6,16,2,0.125,31,1,abalone
+46_A,2006,CC 2006 Index sites survey,7,16,4,0.25,32,1,abalone
+47_A,2006,CC 2006 Index sites survey,7,16,8,0.5,41,1,abalone
+48_A,2006,CC 2006 Index sites survey,7,16,1,0.0625,23,1,abalone
+49_A,2006,CC 2006 Index sites survey,7,16,0,0,25,0,abalone
+50_A,2006,CC 2006 Index sites survey,7,16,0,0,30,0,abalone
+51_A,2006,CC 2006 Index sites survey,7,16,0,0,47,0,abalone
+52_A,2006,CC 2006 Index sites survey,7,16,0,0,37,0,abalone
+53_A,2006,CC 2006 Index sites survey,7,16,1,0.0625,30,1,abalone
+54_A,2006,CC 2006 Index sites survey,7,16,0,0,25,0,abalone
+55_A,2006,CC 2006 Index sites survey,7,16,0,0,52,0,abalone
+56_A,2006,CC 2006 Index sites survey,7,16,0,0,27,0,abalone
+57_A,2006,CC 2006 Index sites survey,7,16,0,0,37,0,abalone
+58_A,2006,CC 2006 Index sites survey,7,16,0,0,58,0,abalone
+59_A,2006,CC 2006 Index sites survey,7,16,0,0,47,0,abalone
+60_A,2006,CC 2006 Index sites survey,7,16,0,0,27,0,abalone
+61_A,2006,CC 2006 Index sites survey,7,16,0,0,32,0,abalone
+62_A,2006,CC 2006 Index sites survey,7,16,1,0.0625,30,1,abalone
+63_A,2006,CC 2006 Index sites survey,7,16,0,0,32,0,abalone
+64_A,2006,CC 2006 Index sites survey,7,16,0,0,37,0,abalone
+65_A,2006,CC 2006 Index sites survey,7,16,0,0,31,0,abalone
+66_A,2006,CC 2006 Index sites survey,7,16,0,0,52,0,abalone
+67_A,2006,CC 2006 Index sites survey,7,15,2,0.133333333,50,1,abalone
+68_A,2006,CC 2006 Index sites survey,7,16,3,0.1875,51,1,abalone
+69_A,2007,QCI 2007 Index sites survey,2,16,2,0.125,40,1,abalone
+70_A,2007,QCI 2007 Index sites survey,2,16,2,0.125,37,1,abalone
+71_A,2007,QCI 2007 Index sites survey,2,16,1,0.0625,26,1,abalone
+72_A,2007,QCI 2007 Index sites survey,2,16,0,0,37,0,abalone
+73_A,2007,QCI 2007 Index sites survey,2,16,6,0.375,23,1,abalone
+74_A,2007,QCI 2007 Index sites survey,2,16,2,0.125,25,1,abalone
+75_A,2007,QCI 2007 Index sites survey,2,16,4,0.25,28,1,abalone
+76_A,2007,QCI 2007 Index sites survey,2,16,1,0.0625,39,1,abalone
+77_A,2007,QCI 2007 Index sites survey,2,16,1,0.0625,18,1,abalone
+78_A,2007,QCI 2007 Index sites survey,2,16,1,0.0625,20,1,abalone
+79_A,2007,QCI 2007 Index sites survey,2,16,5,0.3125,20,1,abalone
+80_A,2007,QCI 2007 Index sites survey,2,16,0,0,30,0,abalone
+81_A,2007,QCI 2007 Index sites survey,2,16,0,0,29,0,abalone
+82_A,2007,QCI 2007 Index sites survey,2,16,7,0.4375,40,1,abalone
+83_A,2007,QCI 2007 Index sites survey,2,16,0,0,23,0,abalone
+84_A,2007,QCI 2007 Index sites survey,2,16,1,0.0625,17,1,abalone
+85_A,2007,QCI 2007 Index sites survey,2,16,3,0.1875,19,1,abalone
+86_A,2007,QCI 2007 Index sites survey,2,16,3,0.1875,45,1,abalone
+87_A,2007,QCI 2007 Index sites survey,2,16,2,0.125,40,1,abalone
+88_A,2007,QCI 2007 Index sites survey,2,16,5,0.3125,24,1,abalone
+89_A,2007,QCI 2007 Index sites survey,2,16,2,0.125,49,1,abalone
+90_A,2007,QCI 2007 Index sites survey,2,16,1,0.0625,37,1,abalone
+91_A,2007,QCI 2007 Index sites survey,2,16,2,0.125,50,1,abalone
+92_A,2007,QCI 2007 Index sites survey,2,16,0,0,23,0,abalone
+93_A,2007,QCI 2007 Index sites survey,2,16,0,0,30,0,abalone
+94_A,2007,QCI 2007 Index sites survey,2,16,2,0.125,35,1,abalone
+95_A,2007,QCI 2007 Index sites survey,2,16,2,0.125,25,1,abalone
+96_A,2007,QCI 2007 Index sites survey,2,16,0,0,29,0,abalone
+97_A,2007,QCI 2007 Index sites survey,2,16,2,0.125,41,1,abalone
+98_A,2007,QCI 2007 Index sites survey,2,16,0,0,48,0,abalone
+99_A,2007,QCI 2007 Index sites survey,2,16,2,0.125,44,1,abalone
+100_A,2007,QCI 2007 Index sites survey,2,16,2,0.125,29,1,abalone
+101_A,2007,QCI 2007 Index sites survey,2,16,1,0.0625,42,1,abalone
+102_A,2007,QCI 2007 Index sites survey,2,16,1,0.0625,16,1,abalone
+103_A,2007,QCI 2007 Index sites survey,2,16,0,0,20,0,abalone
+104_A,2007,QCI 2007 Index sites survey,2,16,5,0.3125,52,1,abalone
+105_A,2007,QCI 2007 Index sites survey,2,16,3,0.1875,35,1,abalone
+106_A,2007,QCI 2007 Index sites survey,2,16,1,0.0625,18,1,abalone
+107_A,2007,QCI 2007 Index sites survey,2,16,1,0.0625,19,1,abalone
+108_A,2007,QCI 2007 Index sites survey,2,16,1,0.0625,30,1,abalone
+109_A,2007,QCI 2007 Index sites survey,2,16,6,0.375,21,1,abalone
+110_A,2007,QCI 2007 Index sites survey,2,16,7,0.4375,15,1,abalone
+111_A,2007,QCI 2007 Index sites survey,2,16,2,0.125,42,1,abalone
+112_A,2007,QCI 2007 Index sites survey,2,16,5,0.3125,47,1,abalone
+113_A,2007,QCI 2007 Index sites survey,2,16,0,0,18,0,abalone
+114_A,2007,QCI 2007 Index sites survey,2,16,6,0.375,34,1,abalone
+115_A,2007,QCI 2007 Index sites survey,2,16,1,0.0625,40,1,abalone
+116_A,2007,QCI 2007 Index sites survey,2,16,1,0.0625,59,1,abalone
+117_A,2007,QCI 2007 Index sites survey,2,16,1,0.0625,24,1,abalone
+118_A,2007,QCI 2007 Index sites survey,2,16,0,0,44,0,abalone
+119_A,2007,QCI 2007 Index sites survey,2,16,1,0.0625,23,1,abalone
+120_A,2007,QCI 2007 Index sites survey,2,16,0,0,20,0,abalone
+121_A,2007,QCI 2007 Index sites survey,2,16,1,0.0625,15,1,abalone
+122_A,2007,QCI 2007 Index sites survey,2,16,0,0,13,0,abalone
+123_A,2007,QCI 2007 Index sites survey,2,16,2,0.125,40,1,abalone
+124_A,2007,QCI 2007 Index sites survey,2,16,0,0,19,0,abalone
+125_A,2007,QCI 2007 Index sites survey,2,16,1,0.0625,55,1,abalone
+126_A,2007,QCI 2007 Index sites survey,2,16,1,0.0625,30,1,abalone
+127_A,2007,QCI 2007 Index sites survey,2,16,1,0.0625,38,1,abalone
+128_A,2007,QCI 2007 Index sites survey,2,16,0,0,50,0,abalone
+129_A,2007,QCI 2007 Index sites survey,2,16,2,0.125,24,1,abalone
+130_A,2007,QCI 2007 Index sites survey,2,16,1,0.0625,37,1,abalone
+131_A,2007,QCI 2007 Index sites survey,2,16,0,0,38,0,abalone
+132_A,2007,QCI 2007 Index sites survey,2,16,0,0,23,0,abalone
+133_A,2007,QCI 2007 Index sites survey,2,16,1,0.0625,20,1,abalone
+134_A,2007,QCI 2007 Index sites survey,2,16,0,0,34,0,abalone
+135_A,2007,QCI 2007 Index sites survey,2,16,9,0.5625,29,1,abalone
+136_A,2007,QCI 2007 Index sites survey,2,16,1,0.0625,27,1,abalone
+137_A,2007,QCI 2007 Index sites survey,2,16,1,0.0625,28,1,abalone
+138_A,2007,QCI 2007 Index sites survey,2,16,3,0.1875,55,1,abalone
+139_A,2007,QCI 2007 Index sites survey,2,16,0,0,35,0,abalone
+140_A,2007,QCI 2007 Index sites survey,2,16,1,0.0625,54,1,abalone
+141_A,2007,QCI 2007 Index sites survey,2,16,0,0,25,0,abalone
+142_A,2007,QCI 2007 Index sites survey,2,16,0,0,19,0,abalone
+143_A,2007,QCI 2007 Index sites survey,2,16,7,0.4375,49,1,abalone
+144_A,2007,QCI 2007 Index sites survey,2,16,0,0,18,0,abalone
+145_A,2007,QCI 2007 Index sites survey,2,16,0,0,18,0,abalone
+146_A,2007,QCI 2007 Index sites survey,2,16,1,0.0625,26,1,abalone
+147_A,2007,QCI 2007 Index sites survey,2,16,0,0,21,0,abalone
+148_A,2007,QCI 2007 Index sites survey,2,16,1,0.0625,21,1,abalone
+149_A,2007,QCI 2007 Index sites survey,2,16,4,0.25,54,1,abalone
+150_A,2007,QCI 2007 Index sites survey,2,16,2,0.125,18,1,abalone
+151_A,2008,WCQCI 2008 Index sites survey,2,16,3,0.1875,32,1,abalone
+152_A,2008,WCQCI 2008 Index sites survey,2,12,1,0.083333333,28,1,abalone
+153_A,2008,WCQCI 2008 Index sites survey,2,16,2,0.125,34,1,abalone
+154_A,2008,WCQCI 2008 Index sites survey,2,16,0,0,47,0,abalone
+155_A,2008,WCQCI 2008 Index sites survey,2,16,0,0,34,0,abalone
+156_A,2008,WCQCI 2008 Index sites survey,2,12,1,0.083333333,28,1,abalone
+157_A,2008,WCQCI 2008 Index sites survey,2,8,1,0.125,8,1,abalone
+158_A,2008,WCQCI 2008 Index sites survey,2,16,0,0,39,0,abalone
+159_A,2008,WCQCI 2008 Index sites survey,2,16,0,0,51,0,abalone
+160_A,2008,WCQCI 2008 Index sites survey,2,16,0,0,38,0,abalone
+161_A,2008,WCQCI 2008 Index sites survey,2,8,1,0.125,28,1,abalone
+162_A,2008,WCQCI 2008 Index sites survey,2,16,2,0.125,70,1,abalone
+163_A,2008,WCQCI 2008 Index sites survey,2,16,3,0.1875,36,1,abalone
+164_A,2008,WCQCI 2008 Index sites survey,2,16,3,0.1875,18,1,abalone
+165_A,2008,WCQCI 2008 Index sites survey,2,8,1,0.125,7,1,abalone
+166_A,2008,WCQCI 2008 Index sites survey,2,8,1,0.125,7,1,abalone
+167_A,2008,WCQCI 2008 Index sites survey,2,8,0,0,14,0,abalone
+168_A,2008,WCQCI 2008 Index sites survey,2,16,0,0,21,0,abalone
+169_A,2008,WCQCI 2008 Index sites survey,2,16,5,0.3125,46,1,abalone
+170_A,2008,WCQCI 2008 Index sites survey,2,16,2,0.125,31,1,abalone
+171_A,2008,WCQCI 2008 Index sites survey,2,16,1,0.0625,26,1,abalone
+172_A,2008,WCQCI 2008 Index sites survey,2,16,0,0,57,0,abalone
+173_A,2008,WCQCI 2008 Index sites survey,2,8,1,0.125,19,1,abalone
+174_A,2008,WCQCI 2008 Index sites survey,2,8,0,0,10,0,abalone
+175_A,2008,WCQCI 2008 Index sites survey,2,8,5,0.625,14,1,abalone
+176_A,2008,WCQCI 2008 Index sites survey,2,16,0,0,60,0,abalone
+177_A,2008,WCQCI 2008 Index sites survey,2,16,1,0.0625,53,1,abalone
+178_A,2008,WCQCI 2008 Index sites survey,2,16,2,0.125,27,1,abalone
+179_A,2008,WCQCI 2008 Index sites survey,2,16,2,0.125,36,1,abalone
+180_A,2008,WCQCI 2008 Index sites survey,2,16,1,0.0625,20,1,abalone
+181_A,2008,WCQCI 2008 Index sites survey,2,16,0,0,50,0,abalone
+182_A,2008,WCQCI 2008 Index sites survey,2,8,0,0,16,0,abalone
+183_A,2008,WCQCI 2008 Index sites survey,2,16,5,0.3125,3,1,abalone
+184_A,2008,WCQCI 2008 Index sites survey,2,16,0,0,41,0,abalone
+185_A,2008,WCQCI 2008 Index sites survey,2,16,1,0.0625,29,1,abalone
+186_A,2008,WCQCI 2008 Index sites survey,2,16,1,0.0625,47,1,abalone
+187_A,2008,WCQCI 2008 Index sites survey,2,16,2,0.125,24,1,abalone
+188_A,2008,WCQCI 2008 Index sites survey,2,16,1,0.0625,41,1,abalone
+189_A,2008,WCQCI 2008 Index sites survey,2,16,3,0.1875,40,1,abalone
+190_A,2008,WCQCI 2008 Index sites survey,2,14,1,0.071428571,44,1,abalone
+191_A,2008,WCQCI 2008 Index sites survey,2,16,1,0.0625,47,1,abalone
+192_A,2008,WCQCI 2008 Index sites survey,2,8,0,0,14,0,abalone
+193_A,2008,WCQCI 2008 Index sites survey,2,16,0,0,22,0,abalone
+194_A,2008,WCVI 2008 Index sites Survey,27,16,5,0.3125,52,1,abalone
+195_A,2008,WCVI 2008 Index sites survey,27,16,0,0,62,0,abalone
+196_A,2008,WCVI 2008 Index sites Survey,27,16,0,0,94,0,abalone
+197_A,2008,WCVI 2008 Index sites survey,27,8,1,0.125,11,1,abalone
+198_A,2008,WCVI 2008 Index sites survey,27,8,0,0,24,0,abalone
+199_A,2008,WCVI 2008 Index sites Survey,27,16,0,0,66,0,abalone
+200_A,2008,WCVI 2008 Index sites Survey,27,16,3,0.1875,63,1,abalone
+201_A,2008,WCVI 2008 Index sites survey,27,16,3,0.1875,49,1,abalone
+202_A,2008,WCVI 2008 Index sites Survey,27,8,0,0,31,0,abalone
+203_A,2008,WCVI 2008 Index sites survey,27,8,1,0.125,44,1,abalone
+204_A,2008,WCVI 2008 Index sites survey,27,8,3,0.375,22,1,abalone
+205_A,2008,WCVI 2008 Index sites survey,27,8,2,0.25,20,1,abalone
+206_A,2008,WCVI 2008 Index sites Survey,27,16,0,0,61,0,abalone
+207_A,2008,WCVI 2008 Index sites Survey,27,16,4,0.25,82,1,abalone
+208_A,2008,WCVI 2008 Index sites survey,27,8,3,0.375,34,1,abalone
+209_A,2008,WCVI 2008 Index sites Survey,27,16,0,0,50,0,abalone
+210_A,2008,WCVI 2008 Index sites Survey,27,8,0,0,41,0,abalone
+211_A,2008,WCVI 2008 Index sites survey,27,8,1,0.125,32,1,abalone
+212_A,2008,WCVI 2008 Index sites Survey,27,16,3,0.1875,41,1,abalone
+213_A,2008,WCVI 2008 Index sites survey,27,16,4,0.25,75,1,abalone
+214_A,2008,WCVI 2008 Index sites Survey,27,16,2,0.125,57,1,abalone
+215_A,2008,WCVI 2008 Index sites survey,27,8,1,0.125,29,1,abalone
+216_A,2008,WCVI 2008 Index sites survey,27,8,0,0,25,0,abalone
+217_A,2009,QC Strait 2009 Index Sites,11,8,2,0.25,30,1,abalone
+218_A,2009,QC Strait 2009 Index Sites,11,8,1,0.125,29,1,abalone
+219_A,2009,QC Strait 2009 Index Sites,11,16,0,0,55,0,abalone
+220_A,2009,QC Strait 2009 Index Sites,11,8,3,0.375,25,1,abalone
+221_A,2009,QC Strait 2009 Index Sites,11,8,0,0,25,0,abalone
+222_A,2009,QC Strait 2009 Index Sites,11,16,2,0.125,50,1,abalone
+223_A,2009,QC Strait 2009 Index Sites,11,8,0,0,25,0,abalone
+224_A,2009,QC Strait 2009 Index Sites,11,16,1,0.0625,55,1,abalone
+225_A,2009,QC Strait 2009 Index Sites,11,16,0,0,46,0,abalone
+226_A,2009,QC Strait 2009 Index Sites,12,8,1,0.125,20,1,abalone
+227_A,2009,QC Strait 2009 Index Sites,12,8,0,0,30,0,abalone
+228_A,2009,QC Strait 2009 Index Sites,12,8,0,0,26,0,abalone
+229_A,2009,QC Strait 2009 Index Sites,12,8,4,0.5,23,1,abalone
+230_A,2009,QC Strait 2009 Index Sites,12,16,5,0.3125,30,1,abalone
+231_A,2009,QC Strait 2009 Index Sites,12,8,0,0,23,0,abalone
+232_A,2009,QC Strait 2009 Index Sites,12,8,0,0,26,0,abalone
+233_A,2009,QC Strait 2009 Index Sites,12,8,0,0,15,0,abalone
+234_A,2009,QC Strait 2009 Index Sites,12,16,1,0.0625,50,1,abalone
+235_A,2009,QC Strait 2009 Index Sites,12,16,1,0.0625,59,1,abalone
+236_A,2009,QC Strait 2009 Index Sites,12,9,1,0.111111111,50,1,abalone
+237_A,2009,QC Strait 2009 Index Sites,12,16,0,0,38,0,abalone
+238_A,2009,QC Strait 2009 Index Sites,12,16,1,0.0625,29,1,abalone
+239_A,2009,QC Strait 2009 Index Sites,12,16,1,0.0625,32,1,abalone
+240_A,2009,QC Strait 2009 Index Sites,12,16,0,0,48,0,abalone
+241_A,2009,QC Strait 2009 Index Sites,12,16,0,0,37,0,abalone
+242_A,2009,QC Strait 2009 Index Sites,12,16,2,0.125,72,1,abalone
+243_A,2009,QC Strait 2009 Index Sites,12,8,0,0,23,0,abalone
+244_A,2009,QC Strait 2009 Index Sites,12,8,0,0,20,0,abalone
+245_A,2009,QC Strait 2009 Index Sites,12,8,0,0,20,0,abalone
+246_A,2009,QC Strait 2009 Index Sites,12,8,4,0.5,38,1,abalone
+247_A,2009,QC Strait 2009 Index Sites,12,16,0,0,43,0,abalone
+248_A,2009,QC Strait 2009 Index Sites,12,15,0,0,58,0,abalone
+249_A,2009,QC Strait 2009 Index Sites,12,16,0,0,65,0,abalone
+250_A,2009,QC Strait 2009 Index Sites,12,16,0,0,40,0,abalone
+251_A,2009,Georgia Strait 2009 Index Site Survey,13,16,8,0.5,50,1,abalone
+252_A,2009,Georgia Strait 2009 Index Site Survey,13,8,6,0.75,22,1,abalone
+253_A,2009,Georgia Strait 2009 Index Site Survey,13,16,10,0.625,33,1,abalone
+254_A,2009,Georgia Strait 2009 Index Site Survey,14,8,2,0.25,25,1,abalone
+255_A,2009,Georgia Strait 2009 Index Site Survey,14,8,2,0.25,18,1,abalone
+256_A,2009,Georgia Strait 2009 Index Site Survey,14,8,8,1,17,1,abalone
+257_A,2009,Georgia Strait 2009 Index Site Survey,14,8,2,0.25,31,1,abalone
+258_A,2009,Georgia Strait 2009 Index Site Survey,15,8,0,0,9,0,abalone
+259_A,2009,Georgia Strait 2009 Index Site Survey,15,16,0,0,38,0,abalone
+260_A,2009,Georgia Strait 2009 Index Site Survey,15,8,0,0,10,0,abalone
+261_A,2009,Georgia Strait 2009 Index Site Survey,15,16,0,0,40,0,abalone
+262_A,2009,Georgia Strait 2009 Index Site Survey,15,8,1,0.125,13,1,abalone
+263_A,2009,Georgia Strait 2009 Index Site Survey,15,8,2,0.25,15,1,abalone
+264_A,2009,Georgia Strait 2009 Index Site Survey,15,8,4,0.5,13,1,abalone
+265_A,2009,Georgia Strait 2009 Index Site Survey,15,8,0,0,16,0,abalone
+266_A,2009,Georgia Strait 2009 Index Site Survey,15,8,3,0.375,21,1,abalone
+267_A,2009,Georgia Strait 2009 Index Site Survey,15,8,20,2.5,17,1,abalone
+268_A,2009,Georgia Strait 2009 Index Site Survey,15,8,1,0.125,21,1,abalone
+269_A,2009,Georgia Strait 2009 Index Site Survey,15,8,3,0.375,16,1,abalone
+270_A,2009,Georgia Strait 2009 Index Site Survey,16,8,6,0.75,15,1,abalone
+271_A,2009,Georgia Strait 2009 Index Site Survey,16,8,0,0,15,0,abalone
+272_A,2009,Georgia Strait 2009 Index Site Survey,16,8,6,0.75,14,1,abalone
+273_A,2009,Georgia Strait 2009 Index Site Survey,16,8,5,0.625,11,1,abalone
+274_A,2009,Georgia Strait 2009 Index Site Survey,16,8,1,0.125,15,1,abalone
+275_A,2009,Georgia Strait 2009 Index Site Survey,16,16,1,0.0625,21,1,abalone
+276_A,2009,Georgia Strait 2009 Index Site Survey,16,8,0,0,15,0,abalone
+277_A,2009,Georgia Strait 2009 Index Site Survey,16,8,1,0.125,14,1,abalone
+278_A,2009,Georgia Strait 2009 Index Site Survey,16,8,4,0.5,13,1,abalone
+279_A,2009,Georgia Strait 2009 Index Site Survey,16,8,6,0.75,24,1,abalone
+280_A,2009,Georgia Strait 2009 Index Site Survey,16,8,0,0,14,0,abalone
+281_A,2011,CC 2011 Index sites survey,5,16,4,0.25,32,1,abalone
+282_A,2011,CC 2011 Index sites survey,5,16,2,0.125,44,1,abalone
+283_A,2011,CC 2011 Index sites survey,5,16,14,0.875,80,1,abalone
+284_A,2011,CC 2011 Index sites survey,5,16,4,0.25,73,1,abalone
+285_A,2011,CC 2011 Index sites survey,5,16,17,1.0625,60,1,abalone
+286_A,2011,CC 2011 Index sites survey,5,16,0,0,60,0,abalone
+287_A,2011,CC 2011 Index sites survey,5,16,1,0.0625,68,1,abalone
+288_A,2011,CC 2011 Index sites survey,5,16,2,0.125,60,1,abalone
+289_A,2011,CC 2011 Index sites survey,5,16,6,0.375,54,1,abalone
+290_A,2011,CC 2011 Index sites survey,5,16,2,0.125,43,1,abalone
+291_A,2011,CC 2011 Index sites survey,6,16,3,0.1875,83,1,abalone
+292_A,2011,CC 2011 Index sites survey,6,16,8,0.5,57,1,abalone
+293_A,2011,CC 2011 Index sites survey,6,16,2,0.125,33,1,abalone
+294_A,2011,CC 2011 Index sites survey,6,16,5,0.3125,40,1,abalone
+295_A,2011,CC 2011 Index sites survey,6,16,3,0.1875,42,1,abalone
+296_A,2011,CC 2011 Index sites survey,6,16,4,0.25,37,1,abalone
+297_A,2011,CC 2011 Index sites survey,6,16,2,0.125,51,1,abalone
+298_A,2011,CC 2011 Index sites survey,6,16,7,0.4375,49,1,abalone
+299_A,2011,CC 2011 Index sites survey,6,16,3,0.1875,57,1,abalone
+300_A,2011,CC 2011 Index sites survey,6,16,5,0.3125,53,1,abalone
+301_A,2011,CC 2011 Index sites survey,6,16,0,0,59,0,abalone
+302_A,2011,CC 2011 Index sites survey,6,16,1,0.0625,56,1,abalone
+303_A,2011,CC 2011 Index sites survey,6,16,0,0,61,0,abalone
+304_A,2011,CC 2011 Index sites survey,6,16,4,0.25,52,1,abalone
+305_A,2011,CC 2011 Index sites survey,6,16,2,0.125,30,1,abalone
+306_A,2011,CC 2011 Index sites survey,6,16,0,0,46,0,abalone
+307_A,2011,CC 2011 Index sites survey,6,16,4,0.25,60,1,abalone
+308_A,2011,CC 2011 Index sites survey,6,16,0,0,74,0,abalone
+309_A,2011,CC 2011 Index sites survey,6,16,3,0.1875,51,1,abalone
+310_A,2011,CC 2011 Index sites survey,6,16,3,0.1875,69,1,abalone
+311_A,2011,CC 2011 Index sites survey,6,16,2,0.125,65,1,abalone
+312_A,2011,CC 2011 Index sites survey,6,8,1,0.125,30,1,abalone
+313_A,2011,CC 2011 Index sites survey,6,16,8,0.5,63,1,abalone
+314_A,2011,CC 2011 Index sites survey,6,16,1,0.0625,39,1,abalone
+315_A,2011,CC 2011 Index sites survey,6,16,2,0.125,52,1,abalone
+316_A,2011,CC 2011 Index sites survey,6,16,3,0.1875,55,1,abalone
+317_A,2011,CC 2011 Index sites survey,6,16,2,0.125,47,1,abalone
+318_A,2011,CC 2011 Index sites survey,6,16,2,0.125,37,1,abalone
+319_A,2011,CC 2011 Index sites survey,6,16,2,0.125,44,1,abalone
+320_A,2011,CC 2011 Index sites survey,6,16,1,0.0625,46,1,abalone
+321_A,2011,CC 2011 Index sites survey,6,16,5,0.3125,50,1,abalone
+322_A,2011,CC 2011 Index sites survey,6,16,0,0,34,0,abalone
+323_A,2011,CC 2011 Index sites survey,6,16,6,0.375,89,1,abalone
+324_A,2011,CC 2011 Index sites survey,6,16,4,0.25,53,1,abalone
+325_A,2011,CC 2011 Index sites survey,6,16,4,0.25,58,1,abalone
+326_A,2011,CC 2011 Index sites survey,6,16,2,0.125,34,1,abalone
+327_A,2011,CC 2011 Index sites survey,6,16,3,0.1875,38,1,abalone
+328_A,2011,CC 2011 Index sites survey,6,16,2,0.125,54,1,abalone
+329_A,2011,CC 2011 Index sites survey,6,16,0,0,26,0,abalone
+330_A,2011,CC 2011 Index sites survey,6,16,0,0,24,0,abalone
+331_A,2011,CC 2011 Index sites survey,6,16,8,0.5,60,1,abalone
+332_A,2011,CC 2011 Index sites survey,6,16,1,0.0625,36,1,abalone
+333_A,2011,CC 2011 Index sites survey,7,16,3,0.1875,79,1,abalone
+334_A,2011,CC 2011 Index sites survey,7,12,3,0.25,88,1,abalone
+335_A,2011,CC 2011 Index sites survey,7,16,2,0.125,78,1,abalone
+336_A,2011,CC 2011 Index sites survey,7,16,4,0.25,76,1,abalone
+337_A,2011,CC 2011 Index sites survey,7,16,0,0,59,0,abalone
+338_A,2011,CC 2011 Index sites survey,7,16,5,0.3125,44,1,abalone
+339_A,2011,CC 2011 Index sites survey,7,16,2,0.125,80,1,abalone
+340_A,2011,CC 2011 Index sites survey,7,16,2,0.125,65,1,abalone
+341_A,2011,CC 2011 Index sites survey,7,16,1,0.0625,66,1,abalone
+342_A,2011,CC 2011 Index sites survey,7,16,4,0.25,92,1,abalone
+343_A,2011,CC 2011 Index sites survey,7,16,2,0.125,77,1,abalone
+344_A,2011,CC 2011 Index sites survey,7,16,6,0.375,95,1,abalone
+345_A,2011,CC 2011 Index sites survey,7,16,1,0.0625,79,1,abalone
+346_A,2011,CC 2011 Index sites survey,7,12,1,0.083333333,93,1,abalone
+347_A,2011,CC 2011 Index sites survey,7,16,0,0,88,0,abalone
+348_A,2011,CC 2011 Index sites survey,7,16,6,0.375,91,1,abalone
+349_A,2011,CC 2011 Index sites survey,7,16,5,0.3125,52,1,abalone
+350_A,2011,CC 2011 Index sites survey,7,16,1,0.0625,27,1,abalone
+351_A,2011,CC 2011 Index sites survey,7,16,0,0,55,0,abalone
+352_A,2011,CC 2011 Index sites survey,7,16,5,0.3125,50,1,abalone
+353_A,2011,CC 2011 Index sites survey,7,16,1,0.0625,70,1,abalone
+354_A,2011,CC 2011 Index sites survey,7,16,6,0.375,66,1,abalone
+355_A,2011,CC 2011 Index sites survey,7,16,3,0.1875,72,1,abalone
+356_A,2011,CC 2011 Index sites survey,7,16,2,0.125,84,1,abalone
+357_A,2012,QCI 2012 Index sites survey,2,16,1,0.0625,75,1,abalone
+358_A,2012,QCI 2012 Index sites survey,2,16,1,0.0625,67,1,abalone
+359_A,2012,QCI 2012 Index sites survey,2,16,0,0,61,0,abalone
+360_A,2012,QCI 2012 Index sites survey,2,16,0,0,67,0,abalone
+361_A,2012,QCI 2012 Index sites survey,2,16,0,0,66,0,abalone
+362_A,2012,QCI 2012 Index sites survey,2,16,0,0,63,0,abalone
+363_A,2012,QCI 2012 Index sites survey,2,16,0,0,24,0,abalone
+364_A,2012,QCI 2012 Index sites survey,2,16,1,0.0625,49,1,abalone
+365_A,2012,QCI 2012 Index sites survey,2,16,0,0,49,0,abalone
+366_A,2012,QCI 2012 Index sites survey,2,16,5,0.3125,31,1,abalone
+367_A,2012,QCI 2012 Index sites survey,2,16,2,0.125,29,1,abalone
+368_A,2012,QCI 2012 Index sites survey,2,16,5,0.3125,52,1,abalone
+369_A,2012,QCI 2012 Index sites survey,2,16,0,0,64,0,abalone
+370_A,2012,QCI 2012 Index sites survey,2,16,2,0.125,37,1,abalone
+371_A,2012,QCI 2012 Index sites survey,2,16,3,0.1875,88,1,abalone
+372_A,2012,QCI 2012 Index sites survey,2,16,0,0,47,0,abalone
+373_A,2012,QCI 2012 Index sites survey,2,16,0,0,64,0,abalone
+374_A,2012,QCI 2012 Index sites survey,2,16,6,0.375,83,1,abalone
+375_A,2012,QCI 2012 Index sites survey,2,16,0,0,51,0,abalone
+376_A,2012,QCI 2012 Index sites survey,2,16,1,0.0625,32,1,abalone
+377_A,2012,QCI 2012 Index sites survey,2,16,0,0,50,0,abalone
+378_A,2012,QCI 2012 Index sites survey,2,16,10,0.625,41,1,abalone
+379_A,2012,QCI 2012 Index sites survey,2,16,6,0.375,39,1,abalone
+380_A,2012,QCI 2012 Index sites survey,2,16,0,0,40,0,abalone
+381_A,2012,QCI 2012 Index sites survey,2,16,1,0.0625,36,1,abalone
+382_A,2012,QCI 2012 Index sites survey,2,16,3,0.1875,32,1,abalone
+383_A,2012,QCI 2012 Index sites survey,2,16,1,0.0625,69,1,abalone
+384_A,2012,QCI 2012 Index sites survey,2,16,1,0.0625,30,1,abalone
+385_A,2012,QCI 2012 Index sites survey,2,16,6,0.375,47,1,abalone
+386_A,2012,QCI 2012 Index sites survey,2,16,0,0,39,0,abalone
+387_A,2012,QCI 2012 Index sites survey,2,16,0,0,48,0,abalone
+388_A,2012,QCI 2012 Index sites survey,2,16,0,0,72,0,abalone
+389_A,2012,QCI 2012 Index sites survey,2,16,4,0.25,43,1,abalone
+390_A,2012,QCI 2012 Index sites survey,2,16,1,0.0625,41,1,abalone
+391_A,2012,QCI 2012 Index sites survey,2,16,2,0.125,50,1,abalone
+392_A,2012,QCI 2012 Index sites survey,2,16,1,0.0625,80,1,abalone
+393_A,2012,QCI 2012 Index sites survey,2,16,2,0.125,32,1,abalone
+394_A,2012,QCI 2012 Index sites survey,2,16,1,0.0625,25,1,abalone
+395_A,2012,QCI 2012 Index sites survey,2,16,2,0.125,46,1,abalone
+396_A,2012,QCI 2012 Index sites survey,2,16,2,0.125,65,1,abalone
+397_A,2012,QCI 2012 Index sites survey,2,16,0,0,41,0,abalone
+398_A,2012,QCI 2012 Index sites survey,2,16,0,0,51,0,abalone
+399_A,2012,QCI 2012 Index sites survey,2,16,0,0,37,0,abalone
+400_A,2012,QCI 2012 Index sites survey,2,16,2,0.125,57,1,abalone
+401_A,2012,QCI 2012 Index sites survey,2,16,11,0.6875,60,1,abalone
+402_A,2012,QCI 2012 Index sites survey,2,16,3,0.1875,77,1,abalone
+403_A,2012,QCI 2012 Index sites survey,2,16,1,0.0625,54,1,abalone
+404_A,2012,QCI 2012 Index sites survey,2,16,2,0.125,71,1,abalone
+405_A,2012,QCI 2012 Index sites survey,2,16,2,0.125,65,1,abalone
+406_A,2012,QCI 2012 Index sites survey,2,16,6,0.375,48,1,abalone
+407_A,2012,QCI 2012 Index sites survey,2,16,1,0.0625,50,1,abalone
+408_A,2012,QCI 2012 Index sites survey,2,16,1,0.0625,55,1,abalone
+409_A,2012,QCI 2012 Index sites survey,2,16,1,0.0625,44,1,abalone
+410_A,2012,QCI 2012 Index sites survey,2,16,0,0,42,0,abalone
+411_A,2012,QCI 2012 Index sites survey,2,16,0,0,37,0,abalone
+412_A,2012,QCI 2012 Index sites survey,2,16,0,0,25,0,abalone
+413_A,2012,QCI 2012 Index sites survey,2,16,0,0,34,0,abalone
+414_A,2012,QCI 2012 Index sites survey,2,16,0,0,40,0,abalone
+415_A,2012,QCI 2012 Index sites survey,2,16,3,0.1875,68,1,abalone
+416_A,2012,QCI 2012 Index sites survey,2,16,4,0.25,46,1,abalone
+417_A,2012,QCI 2012 Index sites survey,2,16,3,0.1875,70,1,abalone
+418_A,2012,QCI 2012 Index sites survey,2,16,0,0,56,0,abalone
+419_A,2012,QCI 2012 Index sites survey,2,16,5,0.3125,71,1,abalone
+420_A,2012,QCI 2012 Index sites survey,2,16,1,0.0625,50,1,abalone
+421_A,2012,QCI 2012 Index sites survey,2,16,1,0.0625,51,1,abalone
+422_A,2012,QCI 2012 Index sites survey,2,16,3,0.1875,43,1,abalone
+423_A,2012,QCI 2012 Index sites survey,2,16,0,0,44,0,abalone
+424_A,2012,QCI 2012 Index sites survey,2,16,2,0.125,35,1,abalone
+425_A,2012,QCI 2012 Index sites survey,2,16,1,0.0625,30,1,abalone
+426_A,2012,QCI 2012 Index sites survey,2,16,0,0,40,0,abalone
+427_A,2012,QCI 2012 Index sites survey,2,16,1,0.0625,40,1,abalone
+428_A,2012,QCI 2012 Index sites survey,2,16,0,0,47,0,abalone
+429_A,2012,QCI 2012 Index sites survey,2,16,4,0.25,51,1,abalone
+430_A,2012,QCI 2012 Index sites survey,2,16,3,0.1875,65,1,abalone
+431_A,2012,QCI 2012 Index sites survey,2,16,0,0,44,0,abalone
+432_A,2012,QCI 2012 Index sites survey,2,16,3,0.1875,30,1,abalone
+433_A,2012,QCI 2012 Index sites survey,2,16,0,0,42,0,abalone
+434_A,2012,QCI 2012 Index sites survey,2,16,0,0,34,0,abalone
+435_A,2012,QCI 2012 Index sites survey,2,16,1,0.0625,56,1,abalone
+436_A,2012,QCI 2012 Index sites survey,2,16,3,0.1875,43,1,abalone
+437_A,2012,QCI 2012 Index sites survey,2,16,4,0.25,42,1,abalone
+438_A,2012,QCI 2012 Index sites survey,2,16,3,0.1875,30,1,abalone
+439_A,2012,QCI 2012 Index sites survey,2,16,1,0.0625,50,1,abalone
+440_A,2012,QCI 2012 Index sites survey,2,16,6,0.375,40,1,abalone
+441_A,2013,WCHG 2013 Index Sites Survey,2,16,0,0,75,0,abalone
+442_A,2013,WCHG 2013 Index Sites Survey,2,16,2,0.125,59,1,abalone
+443_A,2013,WCHG 2013 Index Sites Survey,2,16,1,0.0625,49,1,abalone
+444_A,2013,WCHG 2013 Index Sites Survey,2,16,2,0.125,51,1,abalone
+445_A,2013,WCHG 2013 Index Sites Survey,2,8,6,0.75,21,1,abalone
+446_A,2013,WCHG 2013 Index Sites Survey,2,16,2,0.125,62,1,abalone
+447_A,2013,WCHG 2013 Index Sites Survey,2,8,0,0,20,0,abalone
+448_A,2013,WCHG 2013 Index Sites Survey,2,16,4,0.25,47,1,abalone
+449_A,2013,WCHG 2013 Index Sites Survey,2,16,0,0,77,0,abalone
+450_A,2013,WCHG 2013 Index Sites Survey,2,16,7,0.4375,71,1,abalone
+451_A,2013,WCHG 2013 Index Sites Survey,2,16,1,0.0625,85,1,abalone
+452_A,2013,WCHG 2013 Index Sites Survey,2,16,1,0.0625,50,1,abalone
+453_A,2013,WCHG 2013 Index Sites Survey,2,16,2,0.125,66,1,abalone
+454_A,2013,WCHG 2013 Index Sites Survey,2,16,0,0,56,0,abalone
+455_A,2013,WCHG 2013 Index Sites Survey,2,16,0,0,55,0,abalone
+456_A,2013,WCHG 2013 Index Sites Survey,2,16,0,0,64,0,abalone
+457_A,2013,WCHG 2013 Index Sites Survey,2,16,1,0.0625,52,1,abalone
+458_A,2013,WCHG 2013 Index Sites Survey,2,16,1,0.0625,39,1,abalone
+459_A,2013,WCHG 2013 Index Sites Survey,2,16,1,0.0625,75,1,abalone
+460_A,2013,WCHG 2013 Index Sites Survey,2,16,1,0.0625,51,1,abalone
+461_A,2013,WCHG 2013 Index Sites Survey,2,16,0,0,71,0,abalone
+462_A,2013,WCHG 2013 Index Sites Survey,2,16,0,0,54,0,abalone
+463_A,2013,WCHG 2013 Index Sites Survey,2,16,0,0,79,0,abalone
+464_A,2013,WCHG 2013 Index Sites Survey,2,8,0,0,23,0,abalone
+465_A,2013,WCHG 2013 Index Sites Survey,2,16,1,0.0625,37,1,abalone
+466_A,2013,WCHG 2013 Index Sites Survey,2,16,1,0.0625,90,1,abalone
+467_A,2013,WCHG 2013 Index Sites Survey,2,16,1,0.0625,36,1,abalone
+468_A,2013,WCHG 2013 Index Sites Survey,2,16,4,0.25,33,1,abalone
+469_A,2013,WCHG 2013 Index Sites Survey,2,16,0,0,47,0,abalone
+470_A,2013,WCHG 2013 Index Sites Survey,2,16,1,0.0625,90,1,abalone
+471_A,2013,WCHG 2013 Index Sites Survey,2,16,5,0.3125,79,1,abalone
+472_A,2013,WCHG 2013 Index Sites Survey,2,16,0,0,54,0,abalone
+473_A,2013,WCHG 2013 Index Sites Survey,2,16,1,0.0625,79,1,abalone
+474_A,2013,WCHG 2013 Index Sites Survey,2,16,2,0.125,93,1,abalone
+475_A,2013,WCHG 2013 Index Sites Survey,2,16,0,0,55,0,abalone
+476_A,2013,WCHG 2013 Index Sites Survey,2,16,2,0.125,57,1,abalone
+477_A,2013,WCHG 2013 Index Sites Survey,2,16,1,0.0625,53,1,abalone
+478_A,2013,WCHG 2013 Index Sites Survey,2,16,0,0,72,0,abalone
+479_A,2013,WCHG 2013 Index Sites Survey,2,16,6,0.375,69,1,abalone
+480_A,2013,WCHG 2013 Index Sites Survey,2,16,1,0.0625,61,1,abalone
+481_A,2013,WCHG 2013 Index Sites Survey,2,16,0,0,61,0,abalone
+482_A,2013,WCHG 2013 Index Sites Survey,2,16,2,0.125,71,1,abalone
+483_A,2013,WCHG 2013 Index Sites Survey,2,16,1,0.0625,49,1,abalone
+484_A,2013,WCHG 2013 Index Sites Survey,2,16,1,0.0625,35,1,abalone
+485_A,2013,WCHG 2013 Index Sites Survey,2,16,0,0,78,0,abalone
+486_A,2013,WCHG 2013 Index Sites Survey,2,16,1,0.0625,38,1,abalone
+487_A,2013,WCHG 2013 Index Sites Survey,2,16,2,0.125,52,1,abalone
+488_A,2013,WCHG 2013 Index Sites Survey,2,16,0,0,56,0,abalone
+489_A,2013,WCHG 2013 Index Sites Survey,2,16,0,0,71,0,abalone
+490_A,2013,WCVI 2013 Index Sites Survey,26,8,3,0.375,29,1,abalone
+491_A,2013,WCVI 2013 Index Sites Survey,26,16,5,0.3125,76,1,abalone
+492_A,2013,WCVI 2013 Index Sites Survey,26,16,5,0.3125,43,1,abalone
+493_A,2013,WCVI 2013 Index Sites Survey,26,8,2,0.25,42,1,abalone
+494_A,2013,WCVI 2013 Index Sites Survey,26,16,0,0,65,0,abalone
+495_A,2013,WCVI 2013 Index Sites Survey,26,8,2,0.25,56,1,abalone
+496_A,2013,WCVI 2013 Index Sites Survey,26,16,2,0.125,58,1,abalone
+497_A,2013,WCVI 2013 Index Sites Survey,26,8,0,0,28,0,abalone
+498_A,2013,WCVI 2013 Index Sites Survey,26,16,5,0.3125,76,1,abalone
+499_A,2013,WCVI 2013 Index Sites Survey,26,16,0,0,55,0,abalone
+500_A,2013,WCVI 2013 Index Sites Survey,26,8,2,0.25,27,1,abalone
+501_A,2013,WCVI 2013 Index Sites Survey,26,16,2,0.125,67,1,abalone
+502_A,2013,WCVI 2013 Index Sites Survey,26,8,2,0.25,31,1,abalone
+503_A,2013,WCVI 2013 Index Sites Survey,26,16,1,0.0625,70,1,abalone
+504_A,2013,WCVI 2013 Index Sites Survey,26,8,3,0.375,22,1,abalone
+505_A,2013,WCVI 2013 Index Sites Survey,26,16,3,0.1875,65,1,abalone
+506_A,2013,WCVI 2013 Index Sites Survey,26,16,3,0.1875,91,1,abalone
+507_A,2013,WCVI 2013 Index Sites Survey,26,8,2,0.25,20,1,abalone
+508_A,2013,WCVI 2013 Index Sites Survey,26,16,4,0.25,74,1,abalone
+509_A,2013,WCVI 2013 Index Sites Survey,26,16,1,0.0625,64,1,abalone
+510_A,2013,WCVI 2013 Index Sites Survey,26,16,0,0,56,0,abalone
+511_A,2013,WCVI 2013 Index Sites Survey,26,16,1,0.0625,84,1,abalone
+512_A,2013,WCVI 2013 Index Sites Survey,26,8,2,0.25,30,1,abalone
+513_A,2013,WCVI 2013 Index Sites Survey,26,16,3,0.1875,64,1,abalone
+514_A,2013,WCVI 2013 Index Sites Survey,26,16,0,0,80,0,abalone
+515_A,2013,WCVI 2013 Index Sites Survey,26,16,4,0.25,84,1,abalone
+516_A,2013,WCVI 2013 Index Sites Survey,26,16,0,0,69,0,abalone
+517_A,2013,WCVI 2013 Index Sites Survey,26,16,1,0.0625,74,1,abalone
+518_A,2013,WCVI 2013 Index Sites Survey,27,8,1,0.125,33,1,abalone
+519_A,2013,WCVI 2013 Index Sites Survey,27,16,3,0.1875,43,1,abalone
+520_A,2013,WCVI 2013 Index Sites Survey,27,16,1,0.0625,78,1,abalone
+521_A,2013,WCVI 2013 Index Sites Survey,27,16,0,0,52,0,abalone
+522_A,2013,WCVI 2013 Index Sites Survey,27,16,3,0.1875,48,1,abalone
+523_A,2013,WCVI 2013 Index Sites Survey,27,8,0,0,21,0,abalone
+524_A,2013,WCVI 2013 Index Sites Survey,27,16,1,0.0625,51,1,abalone
+525_A,2013,WCVI 2013 Index Sites Survey,27,16,8,0.5,57,1,abalone
+526_A,2013,WCVI 2013 Index Sites Survey,27,8,0,0,39,0,abalone
+527_A,2013,WCVI 2013 Index Sites Survey,27,16,0,0,52,0,abalone
+528_A,2013,WCVI 2013 Index Sites Survey,27,8,2,0.25,32,1,abalone
+529_A,2013,WCVI 2013 Index Sites Survey,27,16,4,0.25,60,1,abalone
+530_A,2013,WCVI 2013 Index Sites Survey,27,8,2,0.25,31,1,abalone
+531_A,2013,WCVI 2013 Index Sites Survey,27,7,2,0.285714286,29,1,abalone
+532_A,2013,WCVI 2013 Index Sites Survey,27,16,1,0.0625,66,1,abalone
+533_A,2013,WCVI 2013 Index Sites Survey,27,8,1,0.125,45,1,abalone
+534_A,2013,WCVI 2013 Index Sites Survey,27,8,1,0.125,49,1,abalone
+535_A,2013,WCVI 2013 Index Sites Survey,27,16,2,0.125,72,1,abalone
+536_A,2013,WCVI 2013 Index Sites Survey,27,8,1,0.125,32,1,abalone
+537_A,2013,WCVI 2013 Index Sites Survey,27,8,3,0.375,43,1,abalone
+538_A,2013,WCVI 2013 Index Sites Survey,27,16,4,0.25,63,1,abalone
+539_A,2013,WCVI 2013 Index Sites Survey,27,16,4,0.25,57,1,abalone
+540_A,2013,WCVI 2013 Index Sites Survey,27,8,3,0.375,27,1,abalone
+541_A,2013,WCVI 2013 Index Sites Survey,27,16,3,0.1875,72,1,abalone
+542_A,2013,WCVI 2013 Index Sites Survey,27,16,1,0.0625,58,1,abalone
+543_A,2013,WCVI 2013 Index Sites Survey,27,16,1,0.0625,78,1,abalone
+544_A,2013,WCVI 2013 Index Sites Survey,27,16,3,0.1875,52,1,abalone
+545_A,2013,WCVI 2013 Index Sites Survey,27,8,0,0,27,0,abalone
+546_A,2013,WCVI 2013 Index Sites Survey,27,16,1,0.0625,89,1,abalone
+547_A,2013,WCVI 2013 Index Sites Survey,27,8,0,0,34,0,abalone
+548_A,2013,WCVI 2013 Index Sites Survey,27,16,1,0.0625,76,1,abalone
+549_A,2013,WCVI 2013 Index Sites Survey,27,16,3,0.1875,82,1,abalone
+550_A,2013,WCVI 2013 Index Sites Survey,27,16,1,0.0625,75,1,abalone
+551_A,2013,WCVI 2013 Index Sites Survey,27,16,1,0.0625,71,1,abalone
+552_A,2014,QC Strait 2014 Index Sites,11,16,0,0,64,0,abalone
+553_A,2014,QC Strait 2014 Index Sites,11,16,2,0.125,72,1,abalone
+554_A,2014,QC Strait 2014 Index Sites,11,2,0,0,14,0,abalone
+555_A,2014,QC Strait 2014 Index Sites,11,16,0,0,53,0,abalone
+556_A,2014,QC Strait 2014 Index Sites,11,16,3,0.1875,41,1,abalone
+557_A,2014,QC Strait 2014 Index Sites,11,16,0,0,72,0,abalone
+558_A,2014,QC Strait 2014 Index Sites,11,8,0,0,39,0,abalone
+559_A,2014,QC Strait 2014 Index Sites,11,12,1,0.083333333,53,1,abalone
+560_A,2014,QC Strait 2014 Index Sites,12,16,2,0.125,82,1,abalone
+561_A,2014,QC Strait 2014 Index Sites,12,16,2,0.125,83,1,abalone
+562_A,2014,QC Strait 2014 Index Sites,12,16,9,0.5625,87,1,abalone
+563_A,2014,QC Strait 2014 Index Sites,12,16,4,0.25,110,1,abalone
+564_A,2014,QC Strait 2014 Index Sites,12,16,3,0.1875,83,1,abalone
+565_A,2014,QC Strait 2014 Index Sites,12,16,6,0.375,69,1,abalone
+566_A,2014,QC Strait 2014 Index Sites,12,12,0,0,77,0,abalone
+567_A,2014,QC Strait 2014 Index Sites,12,16,0,0,78,0,abalone
+568_A,2014,QC Strait 2014 Index Sites,12,16,5,0.3125,50,1,abalone
+569_A,2014,QC Strait 2014 Index Sites,12,14,1,0.071428571,65,1,abalone
+570_A,2014,QC Strait 2014 Index Sites,12,16,4,0.25,86,1,abalone
+571_A,2014,QC Strait 2014 Index Sites,12,16,2,0.125,49,1,abalone
+572_A,2014,QC Strait 2014 Index Sites,12,16,1,0.0625,67,1,abalone
+573_A,2014,QC Strait 2014 Index Sites,12,16,4,0.25,47,1,abalone
+574_A,2014,QC Strait 2014 Index Sites,12,16,4,0.25,50,1,abalone
+575_A,2014,QC Strait 2014 Index Sites,12,16,2,0.125,80,1,abalone
+576_A,2014,QC Strait 2014 Index Sites,12,16,0,0,52,0,abalone
+577_A,2014,QC Strait 2014 Index Sites,12,16,2,0.125,73,1,abalone
+578_A,2014,QC Strait 2014 Index Sites,12,16,5,0.3125,78,1,abalone
+579_A,2014,QC Strait 2014 Index Sites,12,16,5,0.3125,80,1,abalone
+580_A,2014,QC Strait 2014 Index Sites,12,12,0,0,71,0,abalone
+581_A,2014,QC Strait 2014 Index Sites,12,14,0,0,71,0,abalone
+582_A,2014,QC Strait 2014 Index Sites,12,16,8,0.5,55,1,abalone
+583_A,2014,QC Strait 2014 Index Sites,12,16,4,0.25,46,1,abalone
+584_A,2014,QC Strait 2014 Index Sites,12,16,3,0.1875,46,1,abalone
+585_A,2014,QC Strait 2014 Index Sites,12,16,6,0.375,46,1,abalone
+586_A,2014,QC Strait 2014 Index Sites,12,16,2,0.125,40,1,abalone
+587_A,2014,QC Strait 2014 Index Sites,12,16,0,0,63,0,abalone
+588_A,2014,QC Strait 2014 Index Sites,12,16,0,0,54,0,abalone
+589_A,2014,QC Strait 2014 Index Sites,12,16,7,0.4375,46,1,abalone
+590_A,2014,QC Strait 2014 Index Sites,12,16,3,0.1875,73,1,abalone
+591_A,2016,CC 2016 Index Sites survey,5,16,1,0.0625,46,1,abalone
+592_A,2016,CC 2016 Index Sites survey,5,16,0,0,33,0,abalone
+593_A,2016,CC 2016 Index Sites survey,5,16,0,0,61,0,abalone
+594_A,2016,CC 2016 Index Sites survey,5,16,0,0,79,0,abalone
+595_A,2016,CC 2016 Index Sites survey,5,16,0,0,43,0,abalone
+596_A,2016,CC 2016 Index Sites survey,5,16,0,0,51,0,abalone
+597_A,2016,CC 2016 Index Sites survey,5,16,0,0,88,0,abalone
+598_A,2016,CC 2016 Index Sites survey,5,16,1,0.0625,46,1,abalone
+599_A,2016,CC 2016 Index Sites survey,5,16,0,0,70,0,abalone
+600_A,2016,CC 2016 Index Sites survey,5,16,1,0.0625,82,1,abalone
+601_A,2016,CC 2016 Index Sites survey,6,16,0,0,37,0,abalone
+602_A,2016,CC 2016 Index Sites survey,6,16,0,0,64,0,abalone
+603_A,2016,CC 2016 Index Sites survey,6,16,0,0,40,0,abalone
+604_A,2016,CC 2016 Index Sites survey,6,16,0,0,36,0,abalone
+605_A,2016,CC 2016 Index Sites survey,6,16,0,0,53,0,abalone
+606_A,2016,CC 2016 Index Sites survey,6,16,2,0.125,64,1,abalone
+607_A,2016,CC 2016 Index Sites survey,6,16,0,0,80,0,abalone
+608_A,2016,CC 2016 Index Sites survey,6,16,0,0,42,0,abalone
+609_A,2016,CC 2016 Index Sites survey,6,16,1,0.0625,65,1,abalone
+610_A,2016,CC 2016 Index Sites survey,6,16,0,0,37,0,abalone
+611_A,2016,CC 2016 Index Sites survey,6,16,0,0,46,0,abalone
+612_A,2016,CC 2016 Index Sites survey,6,16,0,0,109,0,abalone
+613_A,2016,CC 2016 Index Sites survey,6,16,0,0,56,0,abalone
+614_A,2016,CC 2016 Index Sites survey,6,16,1,0.0625,75,1,abalone
+615_A,2016,CC 2016 Index Sites survey,6,16,0,0,45,0,abalone
+616_A,2016,CC 2016 Index Sites survey,6,16,0,0,53,0,abalone
+617_A,2016,CC 2016 Index Sites survey,6,16,11,0.6875,75,1,abalone
+618_A,2016,CC 2016 Index Sites survey,6,16,0,0,70,0,abalone
+619_A,2016,CC 2016 Index Sites survey,6,16,0,0,23,0,abalone
+620_A,2016,CC 2016 Index Sites survey,6,16,1,0.0625,60,1,abalone
+621_A,2016,CC 2016 Index Sites survey,6,16,0,0,72,0,abalone
+622_A,2016,CC 2016 Index Sites survey,6,16,0,0,65,0,abalone
+623_A,2016,CC 2016 Index Sites survey,6,16,0,0,48,0,abalone
+624_A,2016,CC 2016 Index Sites survey,6,16,0,0,43,0,abalone
+625_A,2016,CC 2016 Index Sites survey,6,16,0,0,69,0,abalone
+626_A,2016,CC 2016 Index Sites survey,6,16,0,0,55,0,abalone
+627_A,2016,CC 2016 Index Sites survey,6,16,0,0,72,0,abalone
+628_A,2016,CC 2016 Index Sites survey,6,16,0,0,39,0,abalone
+629_A,2016,CC 2016 Index Sites survey,6,16,0,0,55,0,abalone
+630_A,2016,CC 2016 Index Sites survey,6,16,0,0,46,0,abalone
+631_A,2016,CC 2016 Index Sites survey,6,16,0,0,42,0,abalone
+632_A,2016,CC 2016 Index Sites survey,6,16,0,0,45,0,abalone
+633_A,2016,CC 2016 Index Sites survey,6,16,0,0,44,0,abalone
+634_A,2016,CC 2016 Index Sites survey,6,16,2,0.125,58,1,abalone
+635_A,2016,CC 2016 Index Sites survey,6,16,0,0,59,0,abalone
+636_A,2016,CC 2016 Index Sites survey,6,16,0,0,49,0,abalone
+637_A,2016,CC 2016 Index Sites survey,6,16,5,0.3125,53,1,abalone
+638_A,2016,CC 2016 Index Sites survey,6,16,0,0,69,0,abalone
+639_A,2016,CC 2016 Index Sites survey,6,16,0,0,45,0,abalone
+640_A,2016,CC 2016 Index Sites survey,6,16,0,0,41,0,abalone
+641_A,2016,CC 2016 Index Sites survey,6,16,0,0,47,0,abalone
+642_A,2016,CC 2016 Index Sites survey,6,16,1,0.0625,82,1,abalone
+643_A,2016,CC 2016 Index Sites survey,6,16,0,0,52,0,abalone
+644_A,2016,CC 2016 Index Sites survey,6,16,0,0,65,0,abalone
+645_A,2016,CC 2016 Index Sites survey,6,16,0,0,42,0,abalone
+646_A,2016,CC 2016 Index Sites survey,7,16,0,0,118,0,abalone
+647_A,2016,CC 2016 Index Sites survey,7,16,0,0,64,0,abalone
+648_A,2016,CC 2016 Index Sites survey,7,16,0,0,72,0,abalone
+649_A,2016,CC 2016 Index Sites survey,7,16,0,0,75,0,abalone
+650_A,2016,CC 2016 Index Sites survey,7,16,0,0,61,0,abalone
+651_A,2016,CC 2016 Index Sites survey,7,16,0,0,74,0,abalone
+652_A,2016,CC 2016 Index Sites survey,7,16,0,0,85,0,abalone
+653_A,2016,CC 2016 Index Sites survey,7,16,0,0,50,0,abalone
+654_A,2016,CC 2016 Index Sites survey,7,16,0,0,112,0,abalone
+655_A,2016,CC 2016 Index Sites survey,7,16,0,0,85,0,abalone
+656_A,2016,CC 2016 Index Sites survey,7,16,2,0.125,105,1,abalone
+657_A,2016,CC 2016 Index Sites survey,7,16,0,0,50,0,abalone
+658_A,2016,CC 2016 Index Sites survey,7,16,0,0,69,0,abalone
+659_A,2016,CC 2016 Index Sites survey,7,16,0,0,76,0,abalone
+660_A,2016,CC 2016 Index Sites survey,7,16,6,0.375,64,1,abalone
+661_A,2016,CC 2016 Index Sites survey,7,16,0,0,66,0,abalone
+662_A,2016,CC 2016 Index Sites survey,7,16,0,0,76,0,abalone
+663_A,2016,CC 2016 Index Sites survey,7,16,0,0,75,0,abalone
+664_A,2016,CC 2016 Index Sites survey,7,16,0,0,46,0,abalone
+665_A,2016,CC 2016 Index Sites survey,7,16,4,0.25,77,1,abalone
+666_A,2016,CC 2016 Index Sites survey,7,16,0,0,69,0,abalone
+667_A,2016,CC 2016 Index Sites survey,7,16,1,0.0625,50,1,abalone
+668_A,2016,CC 2016 Index Sites survey,7,16,0,0,66,0,abalone
+669_A,2016,CC 2016 Index Sites survey,7,16,0,0,72,0,abalone
+670_A,2017,QCI 2017 Index Sites survey,2,16,0,0,84,0,abalone
+671_A,2017,QCI 2017 Index Sites survey,2,16,0,0,86,0,abalone
+672_A,2017,QCI 2017 Index Sites survey,2,16,1,0.0625,47,1,abalone
+673_A,2017,QCI 2017 Index Sites survey,2,16,0,0,58,0,abalone
+674_A,2017,QCI 2017 Index Sites survey,2,16,0,0,41,0,abalone
+675_A,2017,QCI 2017 Index Sites survey,2,16,0,0,47,0,abalone
+676_A,2017,QCI 2017 Index Sites survey,2,16,0,0,74,0,abalone
+677_A,2017,QCI 2017 Index Sites survey,2,16,0,0,44,0,abalone
+678_A,2017,QCI 2017 Index Sites survey,2,16,0,0,66,0,abalone
+679_A,2017,QCI 2017 Index Sites survey,2,16,1,0.0625,75,1,abalone
+680_A,2017,QCI 2017 Index Sites survey,2,16,0,0,79,0,abalone
+681_A,2017,QCI 2017 Index Sites survey,2,16,0,0,63,0,abalone
+682_A,2017,QCI 2017 Index Sites survey,2,16,0,0,53,0,abalone
+683_A,2017,QCI 2017 Index Sites survey,2,16,0,0,81,0,abalone
+684_A,2017,QCI 2017 Index Sites survey,2,16,0,0,51,0,abalone
+685_A,2017,QCI 2017 Index Sites survey,2,16,0,0,96,0,abalone
+686_A,2017,QCI 2017 Index Sites survey,2,16,0,0,51,0,abalone
+687_A,2017,QCI 2017 Index Sites survey,2,16,0,0,47,0,abalone
+688_A,2017,QCI 2017 Index Sites survey,2,16,0,0,54,0,abalone
+689_A,2017,QCI 2017 Index Sites survey,2,16,0,0,75,0,abalone
+690_A,2017,QCI 2017 Index Sites survey,2,16,1,0.0625,72,1,abalone
+691_A,2017,QCI 2017 Index Sites survey,2,16,0,0,50,0,abalone
+692_A,2017,QCI 2017 Index Sites survey,2,16,0,0,47,0,abalone
+693_A,2017,QCI 2017 Index Sites survey,2,16,0,0,61,0,abalone
+694_A,2017,QCI 2017 Index Sites survey,2,16,0,0,54,0,abalone
+695_A,2017,QCI 2017 Index Sites survey,2,16,0,0,37,0,abalone
+696_A,2017,QCI 2017 Index Sites survey,2,16,0,0,89,0,abalone
+697_A,2017,QCI 2017 Index Sites survey,2,16,0,0,45,0,abalone
+698_A,2017,QCI 2017 Index Sites survey,2,16,0,0,59,0,abalone
+699_A,2017,QCI 2017 Index Sites survey,2,16,0,0,76,0,abalone
+700_A,2017,QCI 2017 Index Sites survey,2,16,0,0,60,0,abalone
+701_A,2017,QCI 2017 Index Sites survey,2,16,0,0,53,0,abalone
+702_A,2017,QCI 2017 Index Sites survey,2,16,0,0,73,0,abalone
+703_A,2017,QCI 2017 Index Sites survey,2,16,0,0,65,0,abalone
+704_A,2017,QCI 2017 Index Sites survey,2,16,0,0,39,0,abalone
+705_A,2017,QCI 2017 Index Sites survey,2,16,0,0,67,0,abalone
+706_A,2017,QCI 2017 Index Sites survey,2,16,0,0,83,0,abalone
+707_A,2017,QCI 2017 Index Sites survey,2,16,0,0,42,0,abalone
+708_A,2017,QCI 2017 Index Sites survey,2,16,0,0,56,0,abalone
+709_A,2017,QCI 2017 Index Sites survey,2,16,0,0,71,0,abalone
+710_A,2017,QCI 2017 Index Sites survey,2,16,0,0,30,0,abalone
+711_A,2017,QCI 2017 Index Sites survey,2,16,0,0,55,0,abalone
+712_A,2017,QCI 2017 Index Sites survey,2,16,0,0,77,0,abalone
+713_A,2017,QCI 2017 Index Sites survey,2,16,0,0,79,0,abalone
+714_A,2017,QCI 2017 Index Sites survey,2,16,0,0,74,0,abalone
+715_A,2017,QCI 2017 Index Sites survey,2,16,0,0,59,0,abalone
+716_A,2017,QCI 2017 Index Sites survey,2,16,0,0,53,0,abalone
+717_A,2017,QCI 2017 Index Sites survey,2,16,0,0,39,0,abalone
+718_A,2017,QCI 2017 Index Sites survey,2,16,0,0,53,0,abalone
+719_A,2017,QCI 2017 Index Sites survey,2,16,0,0,50,0,abalone
+720_A,2017,QCI 2017 Index Sites survey,2,16,0,0,57,0,abalone
+721_A,2017,QCI 2017 Index Sites survey,2,16,0,0,32,0,abalone
+722_A,2017,QCI 2017 Index Sites survey,2,16,0,0,93,0,abalone
+723_A,2017,QCI 2017 Index Sites survey,2,16,0,0,53,0,abalone
+724_A,2017,QCI 2017 Index Sites survey,2,16,1,0.0625,46,1,abalone
+725_A,2017,QCI 2017 Index Sites survey,2,16,0,0,54,0,abalone
+726_A,2017,QCI 2017 Index Sites survey,2,16,1,0.0625,83,1,abalone
+727_A,2017,QCI 2017 Index Sites survey,2,16,0,0,66,0,abalone
+728_A,2017,QCI 2017 Index Sites survey,2,16,0,0,82,0,abalone
+729_A,2017,QCI 2017 Index Sites survey,2,16,0,0,69,0,abalone
+730_A,2017,QCI 2017 Index Sites survey,2,16,0,0,40,0,abalone
+731_A,2017,QCI 2017 Index Sites survey,2,16,0,0,40,0,abalone
+732_A,2017,QCI 2017 Index Sites survey,2,16,0,0,104,0,abalone
+733_A,2017,QCI 2017 Index Sites survey,2,16,0,0,42,0,abalone
+734_A,2017,QCI 2017 Index Sites survey,2,16,0,0,47,0,abalone
+735_A,2017,QCI 2017 Index Sites survey,2,16,0,0,66,0,abalone
+736_A,2017,QCI 2017 Index Sites survey,2,16,0,0,129,0,abalone
+737_A,2017,QCI 2017 Index Sites survey,2,16,0,0,59,0,abalone
+738_A,2017,QCI 2017 Index Sites survey,2,16,0,0,55,0,abalone
+739_A,2017,QCI 2017 Index Sites survey,2,16,0,0,63,0,abalone
+740_A,2017,QCI 2017 Index Sites survey,2,16,0,0,67,0,abalone
+741_A,2017,QCI 2017 Index Sites survey,2,16,0,0,64,0,abalone
+742_A,2017,QCI 2017 Index Sites survey,2,16,0,0,68,0,abalone
+743_A,2017,QCI 2017 Index Sites survey,2,16,0,0,55,0,abalone
+744_A,2017,QCI 2017 Index Sites survey,2,16,0,0,99,0,abalone
+745_A,2017,QCI 2017 Index Sites survey,2,16,0,0,56,0,abalone
+746_A,2017,QCI 2017 Index Sites survey,2,16,0,0,84,0,abalone
+747_A,2017,QCI 2017 Index Sites survey,2,16,0,0,68,0,abalone
+748_A,2017,QCI 2017 Index Sites survey,2,16,0,0,70,0,abalone
+749_A,2017,QCI 2017 Index Sites survey,2,16,0,0,37,0,abalone
+750_A,2017,QCI 2017 Index Sites survey,2,16,0,0,110,0,abalone
+751_A,2017,QCI 2017 Index Sites survey,2,16,0,0,37,0,abalone
+752_A,2017,QCI 2017 Index Sites survey,2,16,0,0,47,0,abalone
+753_A,2017,QCI 2017 Index Sites survey,2,16,0,0,125,0,abalone
+754_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,63,0,abalone
+755_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,52,0,abalone
+756_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,56,0,abalone
+757_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,57,0,abalone
+758_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,77,0,abalone
+759_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,77,0,abalone
+760_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,25,0,abalone
+761_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,36,0,abalone
+762_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,95,0,abalone
+763_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,78,0,abalone
+764_A,2018,WCHG 2018 Index Sites Survey,2,16,1,0.0625,43,1,abalone
+765_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,95,0,abalone
+766_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,39,0,abalone
+767_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,58,0,abalone
+768_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,45,0,abalone
+769_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,59,0,abalone
+770_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,67,0,abalone
+771_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,47,0,abalone
+772_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,53,0,abalone
+773_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,46,0,abalone
+774_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,38,0,abalone
+775_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,62,0,abalone
+776_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,30,0,abalone
+777_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,83,0,abalone
+778_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,33,0,abalone
+779_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,56,0,abalone
+780_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,63,0,abalone
+781_A,2018,WCHG 2018 Index Sites Survey,2,16,1,0.0625,60,1,abalone
+782_A,2018,WCHG 2018 Index Sites Survey,2,16,2,0.125,60,1,abalone
+783_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,54,0,abalone
+784_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,45,0,abalone
+785_A,2018,WCHG 2018 Index Sites Survey,2,16,1,0.0625,47,1,abalone
+786_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,45,0,abalone
+787_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,51,0,abalone
+788_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,50,0,abalone
+789_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,45,0,abalone
+790_A,2018,WCHG 2018 Index Sites Survey,2,16,2,0.125,73,1,abalone
+791_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,52,0,abalone
+792_A,2018,WCHG 2018 Index Sites Survey,2,16,1,0.0625,49,1,abalone
+793_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,46,0,abalone
+794_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,45,0,abalone
+795_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,25,0,abalone
+796_A,2018,WCHG 2018 Index Sites Survey,2,16,4,0.25,52,1,abalone
+797_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,53,0,abalone
+798_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,54,0,abalone
+799_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,81,0,abalone
+800_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,39,0,abalone
+801_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,37,0,abalone
+802_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,54,0,abalone
+803_A,2018,WCHG 2018 Index Sites Survey,2,16,0,0,60,0,abalone
+804_A,2018,WCVI 2018 Index Sites Survey,26,16,0,0,86,0,abalone
+805_A,2018,WCVI 2018 Index Sites Survey,26,16,0,0,51,0,abalone
+806_A,2018,WCVI 2018 Index Sites Survey,26,16,0,0,53,0,abalone
+807_A,2018,WCVI 2018 Index Sites Survey,26,16,0,0,35,0,abalone
+808_A,2018,WCVI 2018 Index Sites Survey,26,16,0,0,40,0,abalone
+809_A,2018,WCVI 2018 Index Sites Survey,26,16,0,0,99,0,abalone
+810_A,2018,WCVI 2018 Index Sites Survey,26,16,0,0,41,0,abalone
+811_A,2018,WCVI 2018 Index Sites Survey,26,16,0,0,29,0,abalone
+812_A,2018,WCVI 2018 Index Sites Survey,26,16,0,0,66,0,abalone
+813_A,2018,WCVI 2018 Index Sites Survey,26,16,0,0,51,0,abalone
+814_A,2018,WCVI 2018 Index Sites Survey,26,16,0,0,37,0,abalone
+815_A,2018,WCVI 2018 Index Sites Survey,26,16,0,0,76,0,abalone
+816_A,2018,WCVI 2018 Index Sites Survey,26,16,0,0,63,0,abalone
+817_A,2018,WCVI 2018 Index Sites Survey,26,16,0,0,57,0,abalone
+818_A,2018,WCVI 2018 Index Sites Survey,26,16,0,0,74,0,abalone
+819_A,2018,WCVI 2018 Index Sites Survey,26,16,0,0,27,0,abalone
+820_A,2018,WCVI 2018 Index Sites Survey,26,16,0,0,86,0,abalone
+821_A,2018,WCVI 2018 Index Sites Survey,26,16,0,0,40,0,abalone
+822_A,2018,WCVI 2018 Index Sites Survey,26,16,0,0,37,0,abalone
+823_A,2018,WCVI 2018 Index Sites Survey,26,16,0,0,33,0,abalone
+824_A,2018,WCVI 2018 Index Sites Survey,26,16,0,0,51,0,abalone
+825_A,2018,WCVI 2018 Index Sites Survey,26,16,0,0,73,0,abalone
+826_A,2018,WCVI 2018 Index Sites Survey,26,16,0,0,44,0,abalone
+827_A,2018,WCVI 2018 Index Sites Survey,26,16,0,0,46,0,abalone
+828_A,2018,WCVI 2018 Index Sites Survey,26,16,0,0,67,0,abalone
+829_A,2018,WCVI 2018 Index Sites Survey,27,16,0,0,54,0,abalone
+830_A,2018,WCVI 2018 Index Sites Survey,27,16,0,0,35,0,abalone
+831_A,2018,WCVI 2018 Index Sites Survey,27,16,0,0,43,0,abalone
+832_A,2018,WCVI 2018 Index Sites Survey,27,16,0,0,41,0,abalone
+833_A,2018,WCVI 2018 Index Sites Survey,27,16,0,0,39,0,abalone
+834_A,2018,WCVI 2018 Index Sites Survey,27,16,0,0,29,0,abalone
+835_A,2018,WCVI 2018 Index Sites Survey,27,16,0,0,28,0,abalone
+836_A,2018,WCVI 2018 Index Sites Survey,27,16,0,0,47,0,abalone
+837_A,2018,WCVI 2018 Index Sites Survey,27,16,0,0,46,0,abalone
+838_A,2018,WCVI 2018 Index Sites Survey,27,16,0,0,57,0,abalone
+839_A,2018,WCVI 2018 Index Sites Survey,27,16,0,0,54,0,abalone
+840_A,2018,WCVI 2018 Index Sites Survey,27,16,1,0.0625,52,1,abalone
+841_A,2018,WCVI 2018 Index Sites Survey,27,16,0,0,36,0,abalone
+842_A,2018,WCVI 2018 Index Sites Survey,27,16,0,0,34,0,abalone
+843_A,2018,WCVI 2018 Index Sites Survey,27,16,0,0,54,0,abalone
+844_A,2018,WCVI 2018 Index Sites Survey,27,16,0,0,27,0,abalone
+845_A,2018,WCVI 2018 Index Sites Survey,27,16,0,0,30,0,abalone
+846_A,2018,WCVI 2018 Index Sites Survey,27,16,0,0,38,0,abalone
+847_A,2018,WCVI 2018 Index Sites Survey,27,16,0,0,72,0,abalone
+848_A,2018,WCVI 2018 Index Sites Survey,27,16,0,0,68,0,abalone
+849_A,2018,WCVI 2018 Index Sites Survey,27,16,0,0,30,0,abalone
+850_A,2018,WCVI 2018 Index Sites Survey,27,16,0,0,40,0,abalone
+851_A,2018,WCVI 2018 Index Sites Survey,27,16,0,0,65,0,abalone
+852_A,2018,WCVI 2018 Index Sites Survey,27,16,5,0.3125,58,1,abalone
+853_A,2018,WCVI 2018 Index Sites Survey,27,15,1,0.066666667,94,1,abalone
+854_A,2018,WCVI 2018 Index Sites Survey,27,16,0,0,51,0,abalone
+855_A,2018,WCVI 2018 Index Sites Survey,27,16,0,0,53,0,abalone
+856_A,2018,WCVI 2018 Index Sites Survey,27,16,0,0,59,0,abalone
+857_A,2018,WCVI 2018 Index Sites Survey,27,16,0,0,24,0,abalone
+858_A,2018,WCVI 2018 Index Sites Survey,27,16,0,0,63,0,abalone
+859_A,2018,WCVI 2018 Index Sites Survey,27,16,0,0,66,0,abalone
+860_A,2018,WCVI 2018 Index Sites Survey,27,16,0,0,33,0,abalone
+861_A,2018,WCVI 2018 Index Sites Survey,27,16,0,0,30,0,abalone
+862_A,2018,WCVI 2018 Index Sites Survey,27,8,0,0,35,0,abalone
+1_B,2019,QC Strait 2019 Index Sites Survey,11,16,0,0,36,0,abalone
+2_B,2019,QC Strait 2019 Index Sites Survey,11,16,0,0,57,0,abalone
+3_B,2019,QC Strait 2019 Index Sites Survey,11,16,0,0,63,0,abalone
+4_B,2019,QC Strait 2019 Index Sites Survey,11,16,0,0,65,0,abalone
+5_B,2019,QC Strait 2019 Index Sites Survey,11,16,0,0,44,0,abalone
+6_B,2019,QC Strait 2019 Index Sites Survey,11,16,0,0,56,0,abalone
+7_B,2019,QC Strait 2019 Index Sites Survey,11,16,1,0.0625,59,1,abalone
+8_B,2019,QC Strait 2019 Index Sites Survey,11,16,0,0,27,0,abalone
+9_B,2019,QC Strait 2019 Index Sites Survey,12,16,0,0,39,0,abalone
+10_B,2019,QC Strait 2019 Index Sites Survey,12,16,0,0,48,0,abalone
+11_B,2019,QC Strait 2019 Index Sites Survey,12,16,0,0,60,0,abalone
+12_B,2019,QC Strait 2019 Index Sites Survey,12,16,0,0,63,0,abalone
+13_B,2019,QC Strait 2019 Index Sites Survey,12,16,0,0,61,0,abalone
+14_B,2019,QC Strait 2019 Index Sites Survey,12,16,0,0,51,0,abalone
+15_B,2019,QC Strait 2019 Index Sites Survey,12,16,0,0,44,0,abalone
+16_B,2019,QC Strait 2019 Index Sites Survey,12,16,0,0,74,0,abalone
+17_B,2019,QC Strait 2019 Index Sites Survey,12,16,0,0,64,0,abalone
+18_B,2019,QC Strait 2019 Index Sites Survey,12,16,0,0,78,0,abalone
+19_B,2019,QC Strait 2019 Index Sites Survey,12,16,1,0.0625,68,1,abalone
+20_B,2019,QC Strait 2019 Index Sites Survey,12,16,0,0,55,0,abalone
+21_B,2019,QC Strait 2019 Index Sites Survey,12,16,0,0,45,0,abalone
+22_B,2019,QC Strait 2019 Index Sites Survey,12,16,1,0.0625,62,1,abalone
+23_B,2019,QC Strait 2019 Index Sites Survey,12,16,0,0,51,0,abalone
+24_B,2019,QC Strait 2019 Index Sites Survey,12,16,0,0,72,0,abalone
+25_B,2019,QC Strait 2019 Index Sites Survey,12,16,0,0,58,0,abalone
+26_B,2019,QC Strait 2019 Index Sites Survey,12,16,0,0,47,0,abalone
+27_B,2019,QC Strait 2019 Index Sites Survey,12,16,1,0.0625,52,1,abalone
+28_B,2019,QC Strait 2019 Index Sites Survey,12,16,0,0,50,0,abalone
+29_B,2019,QC Strait 2019 Index Sites Survey,12,16,0,0,35,0,abalone
+30_B,2019,QC Strait 2019 Index Sites Survey,12,16,0,0,75,0,abalone
+31_B,2019,QC Strait 2019 Index Sites Survey,12,16,0,0,49,0,abalone
+32_B,2019,QC Strait 2019 Index Sites Survey,12,16,0,0,89,0,abalone
+33_B,2019,QC Strait 2019 Index Sites Survey,12,16,0,0,72,0,abalone
+34_B,2019,QC Strait 2019 Index Sites Survey,12,16,0,0,47,0,abalone
+35_B,2019,Georgia Basin 2019 Index Sites Survey,13,16,0,0,37,0,abalone
+36_B,2019,Georgia Basin 2019 Index Sites Survey,13,16,0,0,36,0,abalone
+37_B,2019,Georgia Basin 2019 Index Sites Survey,13,16,0,0,54,0,abalone
+38_B,2019,Georgia Basin 2019 Index Sites Survey,13,16,9,0.5625,50,1,abalone
+39_B,2019,Georgia Basin 2019 Index Sites Survey,14,16,0,0,42,0,abalone
+40_B,2019,Georgia Basin 2019 Index Sites Survey,14,16,0,0,49,0,abalone
+41_B,2019,Georgia Basin 2019 Index Sites Survey,14,16,0,0,63,0,abalone
+42_B,2019,Georgia Basin 2019 Index Sites Survey,14,16,0,0,45,0,abalone
+43_B,2019,Georgia Basin 2019 Index Sites Survey,14,16,0,0,36,0,abalone
+44_B,2019,Georgia Basin 2019 Index Sites Survey,15,16,2,0.125,51,1,abalone
+45_B,2019,Georgia Basin 2019 Index Sites Survey,15,16,0,0,40,0,abalone
+46_B,2019,Georgia Basin 2019 Index Sites Survey,15,16,8,0.5,30,1,abalone
+47_B,2019,Georgia Basin 2019 Index Sites Survey,15,16,10,0.625,47,1,abalone
+48_B,2019,Georgia Basin 2019 Index Sites Survey,15,16,9,0.5625,48,1,abalone
+49_B,2019,Georgia Basin 2019 Index Sites Survey,15,16,4,0.25,34,1,abalone
+50_B,2019,Georgia Basin 2019 Index Sites Survey,15,16,1,0.0625,42,1,abalone
+51_B,2019,Georgia Basin 2019 Index Sites Survey,15,12,0,0,28,0,abalone
+52_B,2019,Georgia Basin 2019 Index Sites Survey,15,16,0,0,38,0,abalone
+53_B,2019,Georgia Basin 2019 Index Sites Survey,15,16,1,0.0625,45,1,abalone
+54_B,2019,Georgia Basin 2019 Index Sites Survey,16,16,0,0,52,0,abalone
+55_B,2019,Georgia Basin 2019 Index Sites Survey,16,16,2,0.125,54,1,abalone
+56_B,2019,Georgia Basin 2019 Index Sites Survey,16,16,0,0,47,0,abalone
+57_B,2019,Georgia Basin 2019 Index Sites Survey,16,16,0,0,42,0,abalone
+58_B,2019,Georgia Basin 2019 Index Sites Survey,16,16,1,0.0625,37,1,abalone
+59_B,2019,Georgia Basin 2019 Index Sites Survey,16,16,5,0.3125,39,1,abalone
+60_B,2019,Georgia Basin 2019 Index Sites Survey,16,16,1,0.0625,32,1,abalone
+61_B,2019,Georgia Basin 2019 Index Sites Survey,16,16,4,0.25,52,1,abalone
+62_B,2019,Georgia Basin 2019 Index Sites Survey,16,16,0,0,29,0,abalone
+63_B,2019,Georgia Basin 2019 Index Sites Survey,19,16,0,0,48,0,abalone
+64_B,2019,Georgia Basin 2019 Index Sites Survey,20,16,1,0.0625,47,1,abalone
+65_B,2019,Georgia Basin 2019 Index Sites Survey,20,16,0,0,62,0,abalone
+66_B,2019,Georgia Basin 2019 Index Sites Survey,20,16,1,0.0625,63,1,abalone
+67_B,2019,Georgia Basin 2019 Index Sites Survey,20,16,0,0,70,0,abalone
+68_B,2019,Georgia Basin 2019 Index Sites Survey,20,16,0,0,52,0,abalone
+69_B,2019,Georgia Basin 2019 Index Sites Survey,20,16,1,0.0625,40,1,abalone
+70_B,2019,Georgia Basin 2019 Index Sites Survey,20,16,0,0,62,0,abalone
+71_B,2019,Georgia Basin 2019 Index Sites Survey,20,16,0,0,50,0,abalone
+72_B,2019,Georgia Basin 2019 Index Sites Survey,20,16,1,0.0625,48,1,abalone
+73_B,2019,Georgia Basin 2019 Index Sites Survey,20,16,0,0,50,0,abalone
+74_B,2019,Georgia Basin 2019 Index Sites Survey,20,16,0,0,54,0,abalone
+75_B,2019,Georgia Basin 2019 Index Sites Survey,20,16,0,0,34,0,abalone
+76_B,2019,Georgia Basin 2019 Index Sites Survey,20,16,0,0,46,0,abalone
+77_B,2019,Georgia Basin 2019 Index Sites Survey,20,16,0,0,65,0,abalone
+78_B,2019,Georgia Basin 2019 Index Sites Survey,20,16,0,0,53,0,abalone
+79_B,2019,Georgia Basin 2019 Index Sites Survey,20,16,0,0,60,0,abalone
+80_B,2019,Georgia Basin 2019 Index Sites Survey,20,16,0,0,54,0,abalone
+81_B,2019,Georgia Basin 2019 Index Sites Survey,20,16,0,0,68,0,abalone
+1_C,2021,NC 2021 Survey,3,16,0,0,53,0,abalone
+2_C,2021,NC 2021 Survey,3,16,0,0,54,0,abalone
+3_C,2021,NC 2021 Survey,3,16,0,0,47,0,abalone
+4_C,2021,NC 2021 Survey,3,16,0,0,58,0,abalone
+5_C,2021,NC 2021 Survey,3,16,0,0,43,0,abalone
+6_C,2021,NC 2021 Survey,3,16,0,0,44,0,abalone
+7_C,2021,NC 2021 Survey,3,16,0,0,41,0,abalone
+8_C,2021,NC 2021 Survey,3,16,0,0,77,0,abalone
+9_C,2021,NC 2021 Survey,3,16,0,0,80,0,abalone
+10_C,2021,NC 2021 Survey,3,16,0,0,46,0,abalone
+11_C,2021,NC 2021 Survey,3,8,0,0,34,0,abalone
+12_C,2021,NC 2021 Survey,4,16,0,0,51,0,abalone
+13_C,2021,NC 2021 Survey,4,16,0,0,66,0,abalone
+14_C,2021,NC 2021 Survey,4,16,0,0,41,0,abalone
+15_C,2021,NC 2021 Survey,4,16,0,0,51,0,abalone
+16_C,2021,NC 2021 Survey,4,16,0,0,33,0,abalone
+17_C,2021,NC 2021 Survey,4,16,0,0,27,0,abalone
+18_C,2021,NC 2021 Survey,4,16,0,0,88,0,abalone
+19_C,2021,NC 2021 Survey,4,16,0,0,46,0,abalone
+20_C,2021,NC 2021 Survey,4,16,0,0,75,0,abalone
+21_C,2021,NC 2021 Survey,4,16,0,0,71,0,abalone
+22_C,2021,NC 2021 Survey,4,16,0,0,60,0,abalone
+23_C,2021,NC 2021 Survey,4,16,0,0,73,0,abalone
+24_C,2021,NC 2021 Survey,4,16,3,0.1875,31,1,abalone
+25_C,2021,NC 2021 Survey,4,16,0,0,64,0,abalone
+26_C,2021,NC 2021 Survey,4,16,0,0,68,0,abalone
+27_C,2021,NC 2021 Survey,4,16,0,0,50,0,abalone
+28_C,2021,NC 2021 Survey,4,16,0,0,52,0,abalone
+29_C,2021,NC 2021 Survey,4,16,0,0,73,0,abalone
+30_C,2021,NC 2021 Survey,4,16,0,0,38,0,abalone
+31_C,2021,NC 2021 Survey,4,16,0,0,75,0,abalone
+32_C,2021,NC 2021 Survey,4,16,0,0,40,0,abalone
+33_C,2021,NC 2021 Survey,4,16,0,0,49,0,abalone
+34_C,2021,NC 2021 Survey,4,16,0,0,67,0,abalone
+35_C,2021,NC 2021 Survey,4,16,4,0.25,58,1,abalone
+36_C,2021,NC 2021 Survey,4,16,0,0,81,0,abalone
+37_C,2021,NC 2021 Survey,4,16,0,0,65,0,abalone
+38_C,2021,NC 2021 Survey,4,16,0,0,42,0,abalone
+39_C,2021,NC 2021 Survey,4,16,0,0,39,0,abalone
+40_C,2021,NC 2021 Survey,4,16,0,0,47,0,abalone
+41_C,2021,NC 2021 Survey,4,16,0,0,51,0,abalone
+42_C,2021,NC 2021 Survey,4,3,0,0,30,0,abalone
+43_C,2021,NC 2021 Survey,4,16,0,0,36,0,abalone
+44_C,2021,NC 2021 Survey,4,16,0,0,70,0,abalone
+45_C,2021,NC 2021 Survey,4,16,0,0,67,0,abalone
+46_C,2021,NC 2021 Survey,4,16,0,0,81,0,abalone
+47_C,2021,NC 2021 Survey,4,16,0,0,74,0,abalone
+48_C,2021,NC 2021 Survey,4,16,0,0,107,0,abalone
+49_C,2021,NC 2021 Survey,4,16,0,0,59,0,abalone
+50_C,2021,NC 2021 Survey,4,16,0,0,32,0,abalone
+51_C,2021,NC 2021 Survey,4,16,0,0,74,0,abalone
