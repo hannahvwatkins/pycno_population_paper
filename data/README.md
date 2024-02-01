@@ -1,0 +1,1 @@
+The data folder contains both the raw data and cleaned data used in these analyses. Data that we are able to share are included here, but this folder is incomplete as several sources require permission for use - please contact me if you would like to be put in contact with the data providers. Cleaning code for the raw data is included in the `code` folder.
