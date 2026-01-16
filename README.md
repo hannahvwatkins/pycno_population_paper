@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/751104985.svg)](https://doi.org/10.5281/zenodo.18274840)
 ## *Pycnopodia helianthoides* population decline manuscript
 
 This repository contains the code, model outputs and figures for the time series and spatial analyses for *Pycnopodia helianthoides* in Canada for our upcoming mauscript. It is closely related to our recent [COSEWIC repository](https://github.com/hannahvwatkins/pycno_population_analysis), with updated figures and supplemental details.
