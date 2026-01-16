@@ -9,7 +9,7 @@ source("code/custom_functions.R")
 #need to load in model outputs to plot them
 #these files are too large for github, so the model in "pycno_model.R" will need 
 #to be run
-abun_mod_rstan <- readRDS("model_output/pycno_model_cosewic_rstan.rds")
+abun_mod_rstan <- readRDS("model_output/pycno_model_rstan.rds")
 abun_mod_ms_rstan <- readRDS("model_output/pycno_model_multiple_states_rstan.rds")
 
 reef <- read_csv("data/cleaned_reef_data.csv")
