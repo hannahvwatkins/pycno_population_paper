@@ -99,11 +99,12 @@ background_plot <- ggplot(diff, aes(decline)) +
             fill="#386868") +
   #geom_density(col = "black", fill = "grey", trim = TRUE) +
   theme_classic() +
-  theme(axis.text = element_blank(),
-        axis.ticks = element_blank()) +
+  theme(axis.text.y = element_blank(),
+        axis.ticks.y = element_blank(),
+        axis.title.y = element_blank()) +
   theme(plot.background = element_blank(),
         panel.background = element_blank()) +
-  labs(x = "",
+  labs(x = "Estimated change in abundance after SSWD epidemic (%)",
        y = "") +
   scale_x_continuous(limits = c(-100, 0), expand = c(0, 0)) +
   scale_y_continuous(limits = c(0,0.5), expand = c(0, 0)) +
@@ -113,24 +114,28 @@ background_plot <- ggplot(diff, aes(decline)) +
 background_plot
 
 #now make the density plots/CIs to layer together
-grob_main <- grobTree(textGrob("New model + all data", x=0.32,  y=0.1, 
+grob_main <- grobTree(textGrob("New model + all data", x=0.295,  y=0.1, 
                                hjust=0, gp=gpar(col="white", fontsize=8)))
 main_plot <- ggplot(diff, aes(decline)) +
   geom_density(col = "black", fill = "grey", trim = TRUE) +
   theme_classic() +
   theme(plot.background = element_blank(),
         panel.background = element_blank(),
-        axis.line.y = element_blank(),
-        axis.text.y = element_blank(),
-        axis.ticks.y = element_blank(),
-        axis.title.y = element_blank()) +
+        #axis.line.y = element_blank(),
+        #axis.text.y = element_blank(),
+        #axis.ticks.y = element_blank(),
+        #axis.title.y = element_blank()
+        axis.line = element_blank(),
+        axis.text = element_blank(),
+        axis.ticks = element_blank(),
+        axis.title = element_blank()) +
   labs(x = "Estimated change in abundance after SSWD epidemic (%)",
        y = "Posterior density") +
   scale_x_continuous(limits = c(-100, 0), expand = c(0, 0)) +
   annotation_custom(grob_main)
 main_plot
 
-grob_iucn <- grobTree(textGrob("New model + original data", x=0.32,  y=0.1, hjust=0,
+grob_iucn <- grobTree(textGrob("New model + original data", x=0.295,  y=0.1, hjust=0,
                                gp=gpar(col="white", fontsize=8)))
 iucn_dens <- ggplot(diff_ms, aes(decline)) +
   geom_density(col = "black", fill = "grey", trim = TRUE) +
@@ -152,7 +157,7 @@ og_df <- tibble(region = c("Salish Sea", "British Columbia"),
                 est = c(-92, -86),
                 lower_ci = c(-100,-100),
                 upper_ci = c(0,-9.8))
-grob_ss <- grobTree(textGrob("Original model - Salish Sea", x=0.79,  y=0.62, 
+grob_ss <- grobTree(textGrob("Original model - Salish Sea", x=0.76,  y=0.7, 
                              hjust=0,gp=gpar(col="white", fontsize=8)))
 original_estimate_ss <- ggplot(filter(og_df, region == "Salish Sea"), 
                                aes(est, region)) +
@@ -164,12 +169,14 @@ original_estimate_ss <- ggplot(filter(og_df, region == "Salish Sea"),
         axis.line = element_blank(),
         axis.text = element_blank(),
         axis.ticks = element_blank(),
-        axis.title = element_blank()) +
+        axis.title = element_blank(),
+        #add in a little spacer for combining the plots
+        plot.margin = unit(c(20,0,0,0), "pt")) +
   scale_x_continuous(limits = c(-100, 0), expand = c(0, 0)) +
   annotation_custom(grob_ss)
 original_estimate_ss
 
-grob_bc <- grobTree(textGrob("Original model - British Columbia", x=0.66,  y=0.62, 
+grob_bc <- grobTree(textGrob("Original model - British Columbia", x=0.6,  y=0.67, 
                              hjust=0,gp=gpar(col="white", fontsize=8)))
 original_estimate_bc <- ggplot(filter(og_df, region == "British Columbia"), 
                                aes(est, region)) +
@@ -186,14 +193,20 @@ original_estimate_bc <- ggplot(filter(og_df, region == "British Columbia"),
   annotation_custom(grob_bc)
 original_estimate_bc
 
-combined_plot <- original_estimate_ss / original_estimate_bc / 
+combined_plot <-  original_estimate_ss / original_estimate_bc / 
   iucn_dens /  main_plot + 
   plot_layout(heights = c(1,1,3,3)) +
   plot_annotation(theme = theme(plot.background = element_blank(),
                                 panel.background = element_blank()))
 combined_plot
-#ggsave("figures/combined_posteriors.png", combined_plot, height = 5, width = 7)
-#ggsave("figures/background_plot.png", background_plot, height = 5, width = 7)
+
+total_plot <- background_plot + inset_element(combined_plot, 0,0,1,1)
+total_plot
+
+#ggsave("figures/combined_posteriors_with_background.png", total_plot, 
+#        height = 5, width = 7)
+#ggsave("figures/Figure2.pdf", total_plot, 
+#       height = 5, width = 7)
 
 #FIGURE 3: TIME SERIES----------------------------------------------------------
 #the way we convert model estimates (i.e., in link space) to real space will be
